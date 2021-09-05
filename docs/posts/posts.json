@@ -1,58 +1,5 @@
 [
   {
-    "path": "posts/2021-09-05-welcome/",
-    "title": "Welcome",
-    "description": "This is an overview of some of the projects that I've worked on!",
-    "author": [
-      {
-        "name": "Keene Morrow",
-        "url": {}
-      }
-    ],
-    "date": "2021-09-05",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-09-05T12:21:42-07:00",
-    "input_file": "welcome.knit.md"
-  },
-  {
-    "path": "posts/2021-09-05-thesis/",
-    "title": "Hydrologic Modeling of the Impacts of Climate Change in the Fenton River Basin",
-    "description": "Undergraduate Honors Thesis - University of Connecticut",
-    "author": [],
-    "date": "2021-09-05",
-    "categories": [],
-    "contents": "\r\nFor my undergraduate honors thesis, I developed a 2D spatially distributed hydrologic model of the Fenton River watershed using TopoFlow, performed quality control by comparing its outputs to USGS gauge data from actual storm events in 2012, and modeled various hydrologic scenarios for Holocene and projected future climate conditions.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-09-05T12:34:49-07:00",
-    "input_file": "thesis.knit.md"
-  },
-  {
-    "path": "posts/2021-09-05-gp/",
-    "title": "Local Clean Energy Vision for Southern California",
-    "description": "Thesis-Equivalent Master's Group Project - University of California, Santa Barbara",
-    "author": [],
-    "date": "2021-09-05",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-09-05T13:58:40-07:00",
-    "input_file": "gp.knit.md"
-  },
-  {
-    "path": "posts/2021-09-05-waca/",
-    "title": "Spatial Material Flow Analysis for the West African Coastal Region",
-    "description": "World Bank Group",
-    "author": [],
-    "date": "2021-09-05",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-09-05T13:58:58-07:00",
-    "input_file": "waca.knit.md"
-  },
-  {
     "path": "posts/2021-09-05-comm/",
     "title": "Water Balance in National Parks",
     "description": "Communication Capstone Project - University of California, Santa Barbara",
@@ -66,7 +13,72 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-05T12:37:18-07:00",
-    "input_file": "comm.knit.md"
+    "last_modified": "2021-09-05T12:37:19-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-09-05-gp/",
+    "title": "Local Clean Energy Vision for Southern California",
+    "description": "Thesis-Equivalent Master's Group Project - University of California, Santa Barbara",
+    "author": [],
+    "date": "2021-09-05",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-05T13:58:40-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-09-05-publr/",
+    "title": "Connecticut Public Use and Benefit Land Registry",
+    "description": "Connecticut Department of Energy and Environmental Protection in collaboration with Eastern Connecticut State University.",
+    "author": [],
+    "date": "2021-09-05",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-05T14:16:49-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-09-05-thesis/",
+    "title": "Hydrologic Modeling of the Impacts of Climate Change in the Fenton River Basin",
+    "description": "Undergraduate Honors Thesis - University of Connecticut",
+    "author": [],
+    "date": "2021-09-05",
+    "categories": [],
+    "contents": "\r\nFor my undergraduate honors thesis, I developed a 2D spatially distributed hydrologic model of the Fenton River watershed using TopoFlow, performed quality control by comparing its outputs to USGS gauge data from actual storm events in 2012, and modeled various hydrologic scenarios for Holocene and projected future climate conditions.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-05T12:34:49-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-09-05-waca/",
+    "title": "Spatial Material Flow Analysis for the West African Coastal Region",
+    "description": "World Bank Group",
+    "author": [],
+    "date": "2021-09-05",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-05T13:58:58-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-09-05-welcome/",
+    "title": "Welcome",
+    "description": "This is an overview of some of the projects that I've worked on!",
+    "author": [
+      {
+        "name": "Keene Morrow",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-05",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-05T12:21:43-07:00",
+    "input_file": {}
   }
 ]

@@ -1,0 +1,13 @@
+---
+title: "Connecticut Public Use and Benefit Land Registry"
+description: |
+  Connecticut Department of Energy and Environmental Protection in collaboration with Eastern Connecticut State University.
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
