@@ -1,0 +1,21 @@
+---
+title: "Keene Morrow"
+image: "keene.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/keene-morrow/"
+  - label: GitHub
+    url: "https://github.com/kamorrow"
+  - label: Twitter
+    url: "https://twitter.com/keene_morrow"
+  - label: Email
+    url: "mailto:kamorrow@bren.ucsb.edu"
+output:
+  postcards::onofre
+site: distill::distill_website
+---
+ 
+Keene Morrow is an environmental scientist passionate about data analysis and visualization in the transition to a renewable energy future. They love making maps, talking about isostatic rebound, and being bad at surfing.

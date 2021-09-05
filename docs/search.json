@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-05T12:05:09-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Keene Morrow",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          home\r\n          \r\n          \r\n          Home\r\n          About\r\n          Projects\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Keene Morrow\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            Keene Morrow is an environmental scientist passionate about data analysis and visualization in the transition to a renewable energy future. They love making maps, talking about isostatic rebound, and being bad at surfing.\r\n          \r\n          \r\n            \r\n                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Keene Morrow\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            Keene Morrow is an environmental scientist passionate about data analysis and visualization in the transition to a renewable energy future. They love making maps, talking about isostatic rebound, and being bad at surfing.\r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                                \r\n                    \r\n                    LinkedIn\r\n                    \r\n                \r\n                                \r\n                    \r\n                    GitHub\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Twitter\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Email\r\n                    \r\n                \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-09-05T12:05:10-07:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-05T12:05:11-07:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
