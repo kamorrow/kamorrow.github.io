@@ -18,4 +18,4 @@ output:
 site: distill::distill_website
 ---
  
-Keene Morrow is an environmental scientist passionate about data analysis and visualization in the transition to a renewable energy future. They love making maps, talking about isostatic rebound, and being bad at surfing.
+Keene Morrow is an environmental scientist passionate about data analysis and visualization in the transition to a renewable energy future. They love making maps, talking about solar panels, and being bad at surfing.

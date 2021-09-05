@@ -1,7 +1,7 @@
 name: "."
-title: "home"
+title: "Home"
 description: |
-  home
+  Home
 output_dir: "docs"
 navbar:
   right:

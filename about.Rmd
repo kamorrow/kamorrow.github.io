@@ -1,10 +1,9 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  This site was made in RStudio with distill and postcards. Many thanks to Alison Hill for the [excellent tutorial](https://www.apreshill.com/blog/2020-12-postcards-distill/)! 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
