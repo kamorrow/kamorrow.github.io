@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-05T12:37:19-07:00",
+    "last_modified": "2021-09-05T15:03:01-07:00",
     "input_file": {}
   },
   {
@@ -25,8 +25,8 @@
     "categories": [],
     "contents": "\r\nClean Power Alliance currently serves commercial and residential customers in thirty member jurisdictions and the unincorporated portions of Los Angeles and Ventura Counties, shown in teal below. In these places, customers are autmatically enrolled to receive electricity from Clean Power Alliance. Each jurisdiction has a default percentage of electricity coming from renewable energy sources, choosing 36% (light green on the map), 50% (medium green), or 100% (dark green). Cities that are not member jurisdictions of Clean Power Alliance are shown here with black outlines.\r\n\r\n\r\nCustomers have the option of opting-up to a higher percentage of their electricity coming from renewable energy sources, opting-down, or opting out entirely and receiving their electricity exclusively from Southern California Edison. Clean Power Alliance purchases renewable energy and delivers it via the grid maintained by Southern California Edison.\r\nThis webmap was created in December 2020 in support of the Local Clean Energy Vision for Southern California project.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-05T14:42:04-07:00",
-    "input_file": "cpast.knit.md"
+    "last_modified": "2021-09-05T15:03:01-07:00",
+    "input_file": {}
   },
   {
     "path": "posts/2021-09-05-gp/",
@@ -37,7 +37,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-05T13:58:40-07:00",
+    "last_modified": "2021-09-05T15:03:02-07:00",
     "input_file": {}
   },
   {
@@ -49,7 +49,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-05T14:16:49-07:00",
+    "last_modified": "2021-09-05T15:03:02-07:00",
     "input_file": {}
   },
   {
@@ -61,7 +61,7 @@
     "categories": [],
     "contents": "\r\nFor my undergraduate honors thesis, I developed a 2D spatially distributed hydrologic model of the Fenton River watershed using TopoFlow, performed quality control by comparing its outputs to USGS gauge data from actual storm events in 2012, and modeled various hydrologic scenarios for Holocene and projected future climate conditions.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-05T12:34:49-07:00",
+    "last_modified": "2021-09-05T15:03:02-07:00",
     "input_file": {}
   },
   {
@@ -73,7 +73,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-05T13:58:58-07:00",
+    "last_modified": "2021-09-05T15:03:02-07:00",
     "input_file": {}
   },
   {
@@ -90,7 +90,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-05T12:21:43-07:00",
+    "last_modified": "2021-09-05T15:03:02-07:00",
     "input_file": {}
   }
 ]
