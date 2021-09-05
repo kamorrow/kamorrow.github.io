@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/2021-09-05-welcome/",
-    "title": "welcome",
-    "description": "A short description of the post.",
+    "title": "Welcome",
+    "description": "This is an overview of some of the projects that I've worked on!",
     "author": [
       {
-        "name": "Unknown",
+        "name": "Keene Morrow",
         "url": {}
       }
     ],
     "date": "2021-09-05",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-05T12:03:17-07:00",
-    "input_file": {}
+    "last_modified": "2021-09-05T12:21:42-07:00",
+    "input_file": "welcome.knit.md"
   }
 ]
