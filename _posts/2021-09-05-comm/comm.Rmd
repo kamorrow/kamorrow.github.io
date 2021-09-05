@@ -1,0 +1,15 @@
+---
+title: "Water Balance in National Parks"
+description: |
+  Communication Capstone Project - University of California, Santa Barbara
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
