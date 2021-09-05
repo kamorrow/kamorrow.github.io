@@ -17,6 +17,18 @@
     "input_file": {}
   },
   {
+    "path": "posts/2021-09-05-cpast/",
+    "title": "Clean Power Alliance Service Territory",
+    "description": "Part of the Local Clean Energy Vision for Southern California project.",
+    "author": [],
+    "date": "2021-09-05",
+    "categories": [],
+    "contents": "\r\nClean Power Alliance currently serves commercial and residential customers in thirty member jurisdictions and the unincorporated portions of Los Angeles and Ventura Counties, shown in teal below. In these places, customers are autmatically enrolled to receive electricity from Clean Power Alliance. Each jurisdiction has a default percentage of electricity coming from renewable energy sources, choosing 36% (light green on the map), 50% (medium green), or 100% (dark green). Cities that are not member jurisdictions of Clean Power Alliance are shown here with black outlines.\r\n\r\n\r\nCustomers have the option of opting-up to a higher percentage of their electricity coming from renewable energy sources, opting-down, or opting out entirely and receiving their electricity exclusively from Southern California Edison. Clean Power Alliance purchases renewable energy and delivers it via the grid maintained by Southern California Edison.\r\nThis webmap was created in December 2020 in support of the Local Clean Energy Vision for Southern California project.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-05T14:42:04-07:00",
+    "input_file": "cpast.knit.md"
+  },
+  {
     "path": "posts/2021-09-05-gp/",
     "title": "Local Clean Energy Vision for Southern California",
     "description": "Thesis-Equivalent Master's Group Project - University of California, Santa Barbara",
