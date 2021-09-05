@@ -1,7 +1,7 @@
 ---
 title: "About this site"
 description: |
-  This site was made in RStudio with distill and postcards. Many thanks to Alison Hill for the [excellent tutorial](https://www.apreshill.com/blog/2020-12-postcards-distill/)! 
+  This site was made using the R packages distill and postcards. Many thanks to Alison Hill for the [excellent tutorial](https://www.apreshill.com/blog/2020-12-postcards-distill/)! 
 ---
 
 ```{r setup, include=FALSE}
