@@ -12,4 +12,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Students in the Bren School of Environmental Science & Management 
+[Strategic Environmental Communication](https://www.brencomm.com/) complete a capstone project for a client as part of their interdisciplinary communication education.
 
+In collaboration with two other students and the National Parks Service, I developed and presented an ESRI StoryMap entitled Water Balance in National Parks to culminate this experience.
+
+[Explore the StoryMap.](https://www.youtube.com/watch?v=B8Br7If0VWI)
+
+[Watch the presentation here.](https://storymaps.arcgis.com/stories/5f21cf98ee904294875d527b48f000fc)
