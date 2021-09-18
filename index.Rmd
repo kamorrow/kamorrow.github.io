@@ -1,8 +1,8 @@
 ---
 title: "Keene Morrow"
 image: "keene.jpg"
-color1: "#5A59A3"
-color2: "#C66060"
+color1: "#000080" # Bottom right
+color2: "#C66060" # Top left
 angle: 130
 links:
   - label: LinkedIn
@@ -14,8 +14,22 @@ links:
   - label: Email
     url: "mailto:kamorrow@bren.ucsb.edu"
 output:
-  postcards::onofre
+  postcards::trestles
 site: distill::distill_website
 ---
- 
+
+## Bio
+
 Keene Morrow is an environmental scientist passionate about data analysis and visualization in the transition to a renewable energy future. They love making maps, playing with ggplot2, talking about solar panels, and being bad at surfing.
+
+## Education
+
+**Bren School of Environmental Science & Management, University of California, Santa Barbara** | Santa Barbara, CA
+
+Master's of Environmental Science & Management | September 2019 - June 2021
+
+**University of Connecticut** | Storrs, CT
+
+B.A. in Geography | August 2009 - December 2013
+
+B.S. in Environmental Science | August 2009 - December 2013
