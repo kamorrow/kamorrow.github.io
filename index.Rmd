@@ -22,6 +22,12 @@ site: distill::distill_website
 
 Keene Morrow is a scientist who is passionate about using data analysis and visualization to solve environmental problems. They love making maps, playing with ggplot2, and being bad at surfing.
 
+## My Work
+
+From solar panel siting to geospatial life cycle assessment to cataloguing (almost) every conserved parcel in Connecticut, my passion for exceptional data organization and analysis unites my interdisciplinary environmental science work.
+
+[Find out more in the Projects section.](kamorrow.github.io/projects)
+
 ## Education
 
 **Bren School of Environmental Science & Management, University of California, Santa Barbara** | Santa Barbara, CA
