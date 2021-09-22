@@ -20,7 +20,7 @@ site: distill::distill_website
 
 ## Bio
 
-Keene Morrow is an environmental scientist passionate about data analysis and visualization in the transition to a renewable energy future. They love making maps, playing with ggplot2, talking about solar panels, and being bad at surfing.
+Keene Morrow is a scientist who is passionate about using data analysis and visualization to solve environmental problems. They love making maps, playing with ggplot2, and being bad at surfing.
 
 ## Education
 
