@@ -24,7 +24,7 @@ Keene Morrow is a scientist who is passionate about using data analysis and visu
 
 ## My Work
 
-From solar panel siting to geospatial life cycle assessment to cataloguing (almost) every conserved parcel in Connecticut, my passion for exceptional data organization and analysis unites my interdisciplinary environmental science work.
+From solar panel siting to geospatial life cycle assessment to cataloging (almost) every conserved parcel in Connecticut, Keene's passion for exceptional data organization and analysis unites their interdisciplinary environmental science work.
 
 [Find out more in the Projects section.](kamorrow.github.io/projects)
 
