@@ -1,0 +1,11 @@
+---
+title: "Working on Boats"
+description: |
+  I spent several years working as a place-based educator aboard tall ships. The experience has shaped everyhting that I've done since.
+author:
+date:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
