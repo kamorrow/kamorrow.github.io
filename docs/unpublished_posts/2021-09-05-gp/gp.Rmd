@@ -1,0 +1,15 @@
+---
+title: "Local Clean Energy Vision for Southern California"
+description: |
+  Thesis-Equivalent Master's Group Project - University of California, Santa Barbara
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+

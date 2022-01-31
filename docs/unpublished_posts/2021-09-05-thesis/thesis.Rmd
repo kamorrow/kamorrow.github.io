@@ -1,0 +1,15 @@
+---
+title: "Hydrologic Modeling of the Impacts of Climate Change in the Fenton River Basin"
+description: |
+  Undergraduate Honors Thesis - University of Connecticut
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+For my undergraduate honors thesis, I developed a 2D spatially distributed hydrologic model of the Fenton River watershed using TopoFlow, performed quality control by comparing its outputs to USGS gauge data from actual storm events in 2012, and modeled various hydrologic scenarios for Holocene and projected future climate conditions.
