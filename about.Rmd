@@ -1,5 +1,5 @@
 ---
-title: "About this site"
+title: "About This Site"
 description: |
   This site was made using the R packages distill and postcards. Many thanks to Alison Hill for the [excellent tutorial](https://www.apreshill.com/blog/2020-12-postcards-distill/)! 
 ---

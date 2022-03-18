@@ -20,9 +20,9 @@ knitr::opts_chunk$set(eval = FALSE,
 
 At the end of 2019 and beginning of 2020, Australia experienced devastating bushfires. More than 11 million hectares burned, principally in the southeast provinces of New South Wales and Victoria.  Only thirty-three people lost their lives, but more than a billion animals are estimated to have been killed, including on Kangaroo Island, a haven for biological diversity.
 
-The current government of Australia shies away from connecting the intensity of the bushfires to climate change or acknowledging the intense impacts of climate change on the country.  CLimate scientists, on the othe rhand, agree that the extremely high temperatures and severe drought that fueled the bushfires are undoubtedly linked to climate change. (BBC)
+The current government of Australia shies away from connecting the intensity of the bushfires to climate change or acknowledging the intense impacts of climate change on the country.  Climate scientists, on the other hand, agree that the extremely high temperatures and severe drought that fueled the bushfires are undoubtedly linked to climate change. (BBC)
  
-In light of the devastation of these fires, the R For Data Science #tidytuesday prompt for 01-07-2020 included data on the fires and the climate of Australia.  Here, temperature and rainfall data are used to construct climatology graphs for five Australian cities: Brisbane, Canberra, Melbourne, Perth, and Sydney.
+In light of the devastation of these fires, the R For Data Science #tidytuesday prompt for January 7, 2020 included data on the fires and the climate of Australia.  Here, temperature and rainfall data are used to construct climatology graphs for five Australian cities: Brisbane, Canberra, Melbourne, Perth, and Sydney.
  
 ### Set Up
 
