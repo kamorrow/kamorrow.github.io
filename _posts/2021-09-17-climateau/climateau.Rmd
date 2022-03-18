@@ -99,7 +99,7 @@ for(i in seq_along(cities)){
                     ymin = mean_temp_min, group = 1),
                 fill = "red",
                 alpha = 0.3) +
-    # red line and points for mean temeprature as mean of mean max and min temp
+    # red line and points for mean temperature as mean of mean max and min temp
     geom_line(aes(x = month_name,
                   y = ((mean_temp_max + mean_temp_min)/2),
                   group = 1),
