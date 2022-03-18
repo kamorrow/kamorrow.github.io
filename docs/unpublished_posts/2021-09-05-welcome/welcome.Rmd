@@ -1,0 +1,17 @@
+---
+title: "Welcome"
+description: |
+  This is an overview of some of the projects that I've worked on!
+author:
+  - name: Keene Morrow
+date: 09-05-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
